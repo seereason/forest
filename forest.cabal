@@ -1,3 +1,4 @@
+cabal-version:  3.0
 name:           forest
 version:        0.2.1.2
 synopsis:       Tree and Forest types
@@ -7,7 +8,6 @@ author:         Shane O'Brien
 maintainer:     me@shane.sh
 stability:      Experimental
 category:       Control
-cabal-version:  >= 1.6
 homepage:       https://github.com/duairc/forest
 bug-reports:    https://github.com/duairc/forest/issues
 build-type:     Simple
